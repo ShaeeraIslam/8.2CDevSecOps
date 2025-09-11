@@ -1,7 +1,8 @@
-# Goof - Snyk's vulnerable demo app
+# Goof - Snyk's vulnerable demo app by Shaeera
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
+This is by Shaeera Islam according to task needs.
 
 ## Features
 
